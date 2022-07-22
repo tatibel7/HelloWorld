@@ -41,7 +41,7 @@ The gradient background didn't show up well on the gif, so I have included a scr
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My main challenge was formatting the app using the constraint layout. In the past I have used the relative layout.
 
 ## License
 
