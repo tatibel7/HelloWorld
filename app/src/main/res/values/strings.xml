@@ -1,0 +1,6 @@
+<resources> --contains all strings
+    <string name="app_name">HelloWorld</string>
+    <string name="tatiana_intro">Hello World! My name is Tatiana and I want to be an Android developer with a focus on geospatial applications! I have created mobile apps in Android Studio using Java, but my mobile development experience has been all self-taught, so I am hoping this course will fill the gaps in my knowledge. In addition, I am eager to learn Kotlin since it\'s the industry standard. Outside of coding, I love cats and 3D art.</string>
+    <string name="button_text">Say hello!</string>
+    <string name="message">Hello to you too!</string>
+</resources>
