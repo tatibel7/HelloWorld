@@ -41,7 +41,7 @@ The gradient background didn't show up well on the gif, so I have included a scr
 
 ## Notes
 
-My main challenge was formatting the app using the constraint layout. In the past I have used the relative layout.
+My main challenge was formatting the app using the constraint layout. In the past I have used the relative layout. In addition, getting familiar with github, git commands, and connecting Android Studio to github was a little challenging. 
 
 ## License
 
