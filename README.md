@@ -33,6 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+## App Screenshot 
+
+The gradient background didn't show up well on the gif, so I have included a screenshot of the app here: 
+
+<img src='snapshot.PNG' title='Snapshot' width='' alt='Snapshot' />
+
 ## Notes
 
 Describe any challenges encountered while building the app.
